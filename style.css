@@ -1,0 +1,41 @@
+.top-nav {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 50rem;
+    
+}
+
+.header-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.top {
+    background-color: #1f2937;
+    display: flex;
+    color: #f9faf8;
+}
+
+.middle {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.bottom {
+    background-color: white;
+}
