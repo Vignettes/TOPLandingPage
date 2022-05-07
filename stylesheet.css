@@ -1,3 +1,20 @@
 #top-nav {
     background: #1f2937;
 }
+
+#signup {
+    background: #1f2937;
+    color: white;
+}
+
+.navbar {
+    padding: 0;
+}
+
+#hero-text {
+    color: #E5E7EB
+}
+
+#quote {
+    background: #EFE7EB;
+}
