@@ -18,3 +18,19 @@
 #quote {
     background: #EFE7EB;
 }
+
+#cta {
+    color: white;
+    background: #3882F6;
+}
+
+#cta-btn {
+    border: solid;
+    color: white;
+}
+
+#cta-cont {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50%;
+}
